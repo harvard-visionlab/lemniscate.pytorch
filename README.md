@@ -1,3 +1,5 @@
+# forked from [zhirongw/lemniscate.pytorch](https://github.com/zhirongw/lemniscate.pytorch)
+
 ## Unsupervised Feature Learning via Non-parameteric Instance Discrimination
 
 This repo constains the pytorch implementation for the CVPR2018 unsupervised learning paper [(arxiv)](https://arxiv.org/pdf/1805.01978.pdf).
